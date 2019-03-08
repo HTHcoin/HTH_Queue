@@ -7,3 +7,6 @@ Enter following line on your server where you have a HTH full node. This will on
 sudo wget https://raw.githubusercontent.com/dk808/HTH_Queue/master/queue.sh && sudo chmod u+x queue.sh && sudo ./queue.sh
 ```
 After script is installed look up your queue position by entering `./queue.sh your_hth_mn_address`
+
+# LICENSE
+https://opensource.org/licenses/MIT
